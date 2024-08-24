@@ -20,7 +20,7 @@ I currently perform computer repair and IT consultations for individuals and sma
 
 ## Get in Touch 💬📬
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project. You can contact me via [Email](mailto:calebkeene@icloud.com) or connect with me on [X](https://x.com/royflowers99).
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project. You can contact me via [Email](mailto:calebkeene@icloud.com).
 
 
 Need my PGP public key? Find it [here](https://github.com/RoyFlowers99/RoyFlowers99/blob/main/RoyFlowers99-Public.asc).
