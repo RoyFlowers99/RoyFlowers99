@@ -1,22 +1,21 @@
-# Howdy Fellers 👋🤠
+# 👋 Howdy, I'm Caleb.
 
-## About Me
+I'm passionate about cybersecurity, software development, and ethical hacking.
 
-I'm Caleb, a cybersecurity coding student working towards an AAS degree. I have a strong background in avionics technology from my time in the Marine Corps, where I specialized in radar and missile warning systems. 
-I currently perform computer repair and IT consultations for individuals and small businesses alike. My GitHub is mostly just used for learning or hobby projects and I will typically keep my repos private.
+## 🔧 My Technical Toolbox
 
-## Current Skills 🐱‍💻
+- Programming Languages: Python, JavaScript, C, C++, and Java.
+- Cybersecurity Skills: Vulnerability enumeration and exploitation, pentesting, and reverse engineering.
+- Technologies I'm most familiar with:
+    - Frameworks: Flask, Node.js, Electron.
+    - Tools: Ghidra, Docker.
+    - Operating Systems: Win 10/11, Debian and Arch based Linux distros, macOS.
+        
 
-- **Languages:** Python, Java, HTML, CSS, JavaScript, PHP
-- **Frameworks & Tools:** Node.js, ElectronJS, Docker
-- **Development Areas:** Web/App/Game Development, Cybersecurity/Ethical Hacking Tools
+## 💡 Fun Facts About Me
 
-
-## Goals 🔭🌱
-
-- **Learn Assembly Language and C**
-- **Learn PostgreSQL, ExpressJS, React, AWS Elastic Beanstalk**
-- **Earn CompTIA Secure Infrastructure Specialist Certification**
+Prior enlisted Marine, experienced in avionics and radar systems.
+Currently playing Cyberpunk 2077 and Baldur's Gate 3.
 
 ## Get in Touch 💬📬
 
